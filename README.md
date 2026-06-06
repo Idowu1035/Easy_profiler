@@ -1,0 +1,1 @@
+EasyProfiler - Health Data Analytics Platform, Developed a multi-source data profiling tool integrating DHIS2, NDARS, and EMR systems., Enabled real-time performance tracking and facility-level analysis., Achieved ~97% data alignment between EMR and reporting systems
